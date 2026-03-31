@@ -15,7 +15,7 @@ MarketMind-AI is a web-based stock market analysis platform designed to help use
 - JavaScript
 
 ## 🌐 Live Demo
-https://allen745.github.io/MarketMind-AI-2/
+https://allen745.github.io/MarketMind-AI-2-/
 
 ## 📌 Purpose
 This project aims to simplify stock market analysis for beginners and provide useful insights for traders.
