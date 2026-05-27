@@ -22,3 +22,6 @@ This project aims to simplify stock market analysis for beginners and provide us
 
 
 # MarketMind-AI-2-
+
+
+Made By  ALLEN STIVANSON CHRISTIAN || https://www.linkedin.com/in/allen-christian-708545409/  || Patent Holder
